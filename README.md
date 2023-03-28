@@ -776,4 +776,4 @@ Many thanks to these AI whisperers:
 
 # License
 
-CC-0
+ohyeah
